@@ -1,5 +1,5 @@
 
-# Project LEIA: Lab for Equity in Artificial Intelligence
+# LEIA: Lab for Equity in Artificial Intelligence
 
 This is a *bare-minimum* template to create a [Jekyll] site that:
 
