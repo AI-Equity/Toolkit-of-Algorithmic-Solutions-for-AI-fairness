@@ -1,4 +1,4 @@
-# Toolkit of Algorithmic Solutions for improving AI Fairness
+# Algorithmic Solutions for AI Fairness
 
 This is a *bare-minimum* template to create a [Jekyll] site that:
 
